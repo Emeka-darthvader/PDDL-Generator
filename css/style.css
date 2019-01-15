@@ -1,0 +1,26 @@
+#homeNav{
+    margin-top: 90px;
+}
+
+#homeForm,{
+    margin-top: 50px;
+    padding: 10px;
+    height: 200px;
+    border-left: 2px solid black;
+}
+#variableForm1{
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+
+}
+#variableForm1,#variableForm2{
+    
+    padding: 10px;
+    height: 200px;
+
+}
+
+/* #retrievePane{
+    margin-top: 90px;
+    background-color: white;
+} */
