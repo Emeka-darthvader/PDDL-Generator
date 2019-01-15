@@ -9,7 +9,7 @@ I am ready to collaborate with anyone on making this solution better.
 
 My thought process on making this is documented on my blog
 
-#How To Install
+## How To Install
 Here are some steps
 1. Clone to your repo
 2. The database(in SQL) is in the SQL-Files folder
